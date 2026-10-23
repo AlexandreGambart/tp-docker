@@ -593,9 +593,8 @@ docker rm -f inspection-test
 
 ### Livrables attendus
 
-1. Les fichiers sources et le Dockerfile.
-2. Les réponses argumentées aux questions.
-3. Une courte conclusion sur les améliorations apportées à l'image et à la sécurité du conteneur.
+1. Les réponses argumentées aux questions.
+2. Une courte conclusion sur les améliorations apportées à l'image et à la sécurité du conteneur.
 
 ---
 
